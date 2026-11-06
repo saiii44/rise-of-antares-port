@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Rise of Antares</string>
+    <string name="play_game">PLAY GAME</string>
+    <string name="continue_game">CONTINUE CAMPAIGN</string>
+    <string name="settings">PORT SETTINGS</string>
+    <string name="exit">EXIT</string>
+    <string name="btn_size">Touchscreen Button Size</string>
+    <string name="btn_transparency">Button Transparency</string>
+    <string name="audio_volume">Audio &amp; MIDI Volume</string>
+    <string name="screen_aspect">Screen Aspect Ratio</string>
+</resources>
